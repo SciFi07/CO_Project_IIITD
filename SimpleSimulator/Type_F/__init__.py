@@ -1,1 +1,0 @@
-from .hlt_sim import hlt_instruction as hlt
