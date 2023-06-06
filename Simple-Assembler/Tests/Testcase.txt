@@ -1,0 +1,3 @@
+movf R1 $6.25
+movf R2 $12.25
+hlt
